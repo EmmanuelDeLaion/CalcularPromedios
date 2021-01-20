@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\ProgramaSimulacion1\bin\Debug\ProgramaSimulacion1.exe.config
+C:\Users\USER\source\repos\ProgramaSimulacion1\bin\Debug\ProgramaSimulacion1.exe
+C:\Users\USER\source\repos\ProgramaSimulacion1\bin\Debug\ProgramaSimulacion1.pdb
+C:\Users\USER\source\repos\ProgramaSimulacion1\obj\Debug\ProgramaSimulacion1.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\ProgramaSimulacion1\obj\Debug\ProgramaSimulacion1.Form1.resources
+C:\Users\USER\source\repos\ProgramaSimulacion1\obj\Debug\ProgramaSimulacion1.Properties.Resources.resources
+C:\Users\USER\source\repos\ProgramaSimulacion1\obj\Debug\ProgramaSimulacion1.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\ProgramaSimulacion1\obj\Debug\ProgramaSimulacion1.exe
+C:\Users\USER\source\repos\ProgramaSimulacion1\obj\Debug\ProgramaSimulacion1.pdb
+C:\Users\USER\source\repos\ProgramaSimulacion1\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\USER\source\repos\ProgramaSimulacion1\obj\Debug\ProgramaSimulacion1.csproj.CopyComplete
